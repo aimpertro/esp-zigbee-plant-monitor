@@ -1,0 +1,6 @@
+dependencies:
+  idf:
+    version: '>=5.0'
+description: esp-zboss library component
+url: https://github.com/espressif/esp-zboss-lib
+version: 0.7.2
